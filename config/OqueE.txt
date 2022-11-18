@@ -1,3 +1,0 @@
-:: Para que essa pasta e arquivos servem? ::
-
-- Todas as configurações individuais do nosso projeto.

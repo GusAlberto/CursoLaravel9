@@ -1,5 +1,0 @@
-:: Para que essa pasta e arquivos servem? ::
-
-- Onde irá ficar todos os nossos arquivos de migrations.
-
-- Permite povoar nossa tabela
