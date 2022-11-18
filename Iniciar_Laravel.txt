@@ -1,11 +1,5 @@
 Requerido:
 
-1 - Suba os containers do projeto:
-docker-compose up -d
-
-Acesse o container app com o bash
-docker-compose exec app bash
-
 2- Estar na pasta raiz do projeto ↴
 cd /home/gustavo/Projetos/Curso_Alura/Introducao_Laravel/cursoLaravel
 
