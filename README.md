@@ -7,24 +7,22 @@ Curso de Laravel 9 pelo canal @EspecializaTi criado pelo Carlos Ferreira
 ### Passo a passo
 Clone Repositório
 ```sh
-git clone https://github.com/GusAlberto/Curso_Laravel9.git
+git clone https://github.com/especializati/setup-docker-laravel.git
+```
+
+Clone os Arquivos do Laravel
+```sh
+git clone https://github.com/laravel/laravel.git app-laravel
+```
+
+
+Copie os arquivos docker-compose.yml, Dockerfile e o diretório docker/ para o seu projeto
+```sh
+cp -rf setup-docker-laravel/* app-laravel/
 ```
 ```sh
-cd my-project/
+cd app-laravel/
 ```
-
-
-Alterne para a branch laravel 9.x
-```sh
-git checkout laravel-9-com-php-8
-```
-
-
-Remova o versionamento (opcional)
-```sh
-rm -rf .git/
-```
-
 
 Crie o Arquivo .env
 ```sh
