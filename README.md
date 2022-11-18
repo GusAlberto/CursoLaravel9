@@ -1,8 +1,8 @@
 # Curso de Laravel 9
 
-Curso de Laravel 9 pelo canal EspecializaTi criado pelo Carlos Ferreira
+Curso de Laravel 9 pelo canal @EspecializaTi criado pelo Carlos Ferreira
 
-# Setup Docker Para Projetos Laravel
+## Setup Docker Para Projetos Laravel
 
 ### Passo a passo
 Clone Repositório
