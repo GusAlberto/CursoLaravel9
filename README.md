@@ -7,7 +7,6 @@ Curso de Laravel 9 pelo canal @EspecializaTi criado pelo Carlos Ferreira
 ### Passo a passo
 Clone Repositório
 ```sh
-<<<<<<< HEAD
 git clone https://github.com/GusAlberto/Curso_Laravel9.git
 ```
 ```sh
